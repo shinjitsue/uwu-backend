@@ -1,0 +1,33 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Django    
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
